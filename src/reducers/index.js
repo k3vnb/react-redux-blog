@@ -1,6 +1,7 @@
 import { combineReducers } from 'redux';
+import postsReducer from './postsReducer';
 
 export default combineReducers({
 //fake reducer to remove error message from console until real reducer implemented
-    fakeReducer: () => 'delete me'
+    posts: postsReducer
 });

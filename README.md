@@ -1,3 +1,3 @@
 # React-Redux-Blog
 
-## Practice Blog App based on Stephen Grider's Udemy tutorials from 'Modern React w/ Redux (2019)'
+## Practice Blog App based on Stephen Grider's Udemy tutorials from 'Modern React w/ Redux (2019)' w/ posts originating fronm jsonPlaceholder api.
